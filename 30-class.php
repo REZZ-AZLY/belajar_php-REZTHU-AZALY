@@ -28,9 +28,10 @@ public function __construct(int $ageParameter){
 
 // intance sebuah class ke dalam object
 // menjalankan fungsi construct
-$mahasiswa = new Person(20);
+$mahasiswa = new Person(25);
 // ubah property
 $mahasiswa->address = "selong";
+$mahasiswa->name = "rezthu";
 
 // memanggil function
-$mahasiswa->sayHello("kamal");
+$mahasiswa->sayHello("rezthu");
