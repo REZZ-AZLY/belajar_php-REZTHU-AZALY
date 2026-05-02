@@ -1,7 +1,7 @@
 <?php
 
-function checkApakahGantengAtauTidak() {
+function checkApakahGantengAtauTidak(){
     echo "mas ganteng";
 }
 
-chekApakahGantengAtauTidak();
+checkApakahGantengAtauTidak();
