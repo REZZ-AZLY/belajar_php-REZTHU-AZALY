@@ -1,3 +1,3 @@
 <?php
 
-echo "sispia boleh pinjem kok";
+echo "Hanya Untuk Saya";
